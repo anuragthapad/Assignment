@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 red blue green black
+=======
+red blue green yellow
+>>>>>>> dev
